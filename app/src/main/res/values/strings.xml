@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ohaosi</string>
+    <string name="back">返回</string>
+    <string name="topbar_login_title">登录</string>
+</resources>
